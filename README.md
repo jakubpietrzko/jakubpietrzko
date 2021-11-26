@@ -8,6 +8,6 @@
 
 
 
-🔭 I’m currently working on PROJEKTEM PACMANA
-🌱 I’m currently learning ANALIZA MATEMATYCZNA
-⚡ Fun fact: wariantowszachowych jest wiecej niz atomów w obserwowalnym wszechświecie
+🔭 I’m currently working on PROJEKTEM PACMANA \n
+🌱 I’m currently learning ANALIZA MATEMATYCZNA \n
+⚡ Fun fact: wariantowszachowych jest wiecej niz atomów w obserwowalnym wszechświecie\n
